@@ -17,15 +17,15 @@ End-to-end data analysis project using Power BI to optimize UK Railway operation
 
 ### 2️⃣ تحليل حركة الركاب (Flow Analysis)
 دراسة أوقات الذروة، تحديد المحطات الأكثر ازدحاماً، وفهم أنماط رحلات الركاب.
-![Flow Analysis](Images/Dashboard 2.jpg)
+![Flow Analysis](Images/Dashboard2.jpg)
 
 ### 3️⃣ أداء السكك الحديدية (Rail Performance)
 تحليل دقيق للتأخيرات (Delays)، تحديد أسبابها، ومراقبة أداء الرحلات عبر المسارات المختلفة.
-![Rail Performance](Images/Dashboard 3.jpg)
+![Rail Performance](Images/Dashboard3.jpg)
 
 ### 4️⃣ تحليل المبيعات (Sales Analysis)
 تحليل مصادر الدخل، مقارنة أنواع التذاكر، وتحديد طرق الحجز الأكثر استخداماً.
-![Sales Analysis](Images/Dashboard 4.jpg)
+![Sales Analysis](Images/Dashboard4.jpg)
 
 ---
 
