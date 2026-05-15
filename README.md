@@ -13,7 +13,7 @@ End-to-end data analysis project using Power BI to optimize UK Railway operation
 
 ### 1️⃣ الملخص التنفيذي (Executive Summary)
 نظرة شاملة للإدارة العليا حول الأداء العام، إجمالي الإيرادات، وأهم مؤشرات الأداء (KPIs).
-![Dashboard Preview](Dashboard1.jpg)
+![Executive Summary](Images/Dashboard1.jpg)
 
 ### 2️⃣ تحليل حركة الركاب (Flow Analysis)
 دراسة أوقات الذروة، تحديد المحطات الأكثر ازدحاماً، وفهم أنماط رحلات الركاب.
@@ -46,7 +46,7 @@ End-to-end data analysis project using Power BI to optimize UK Railway operation
 
 ## 👥 فريق العمل (The Team)
 تم إنجاز هذا العمل بتعاون الفريق المتميز:
-* **شيرين طلعت سعد عبود* ريمون عزت حبيب* ** بسمة عاطف عبدالغفور* ** مني محمد حسين**
+* **شيرين طلعت سعد عبود* **ريمون عزت حبيب* ** بسمة عاطف عبدالغفور* ** مني محمد حسين**
 
 ---
 **تحت إشراف:**م. كريم بقلي
