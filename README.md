@@ -36,6 +36,10 @@ End-to-end data analysis project using Power BI to optimize UK Railway operation
 * **Data Modeling**: تطبيق نموذج **Star Schema** لضمان سرعة ودقة التقارير.
 
 ---
+## 🏗️ Data Modeling (نموذج البيانات)
+تم بناء نموذج البيانات باستخدام تصميم **Star Schema** لضمان أفضل أداء للتقارير وسهولة في كتابة معادلات الـ DAX. يتكون النموذج من جدول الحقائق (Fact Table) وجداول الأبعاد (Dimension Tables) المرتبطة به.
+
+![Data Model Schema](Images/Data Modeling.jpg)
 
 ## 💡 Key Insights & Recommendations (أهم النتائج)
 * **تحسين الإيرادات:** اقتراح استراتيجيات تسعير مرنة في أوقات الذروة.
