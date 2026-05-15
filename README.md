@@ -13,7 +13,7 @@ End-to-end data analysis project using Power BI to optimize UK Railway operation
 
 ### 1️⃣ الملخص التنفيذي (Executive Summary)
 نظرة شاملة للإدارة العليا حول الأداء العام، إجمالي الإيرادات، وأهم مؤشرات الأداء (KPIs).
-![Executive Summary](Images/Dashboard 1.jpg)
+![Dashboard Preview](Images/Dashboard 1.jpg)
 
 ### 2️⃣ تحليل حركة الركاب (Flow Analysis)
 دراسة أوقات الذروة، تحديد المحطات الأكثر ازدحاماً، وفهم أنماط رحلات الركاب.
